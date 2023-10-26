@@ -1,2 +1,1 @@
-#myfirstscript
-#eyeyeypequeña
+# myfirst
